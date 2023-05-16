@@ -125,9 +125,12 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
+![image](https://github.com/SAILESHKUMAR33/slot/assets/113497410/1f4aacdb-5852-4dae-852c-22d2992bf422)
 
 
 ## HTML VALIDATOR
+![Screenshot (26)](https://github.com/SAILESHKUMAR33/slot/assets/113497410/f1cc3076-6dfd-4021-bbcd-af15538178da)
+
 
 
 ## RESULT
